@@ -23,4 +23,4 @@ The project uses the popular MNIST dataset to train and test a neural network th
 - **Modern C++ Implementation:** Built with modern C++ standards for robust and efficient code.
 - **Memory Safety:** Focus on secure memory management and performance.
 - **Configurable Training:** Easily adjustable parameters via a configuration file.
-- **OpenMP Support:** Optional OpenMP support for enhanced parallelism during training.
+- **OpenMP Support:** OpenMP support for enhanced parallelism during training.
