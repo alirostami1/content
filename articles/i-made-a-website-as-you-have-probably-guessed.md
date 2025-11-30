@@ -7,15 +7,7 @@ description: This is my first blog post!
 pubDate: May 08 2024
 ---
 
-So, I made a little website for myself and I plan to write blog posts every week
-
-and share anything interesting I learn with the community. The website is
-
-written with Astro and it is hosted on Cloudflare Pages. You can checkout out
-
-the code (although it's fairly simple) on
-
-[Github](https://github.com/alirostami1/website).
+So, I made a little website for myself and I plan to write blog posts every week and share anything interesting I learn with the community. The website is written with Astro and it is hosted on Cloudflare Pages. You can checkout out the code (although it's fairly simple) on [Github](https://github.com/alirostami1/website).
 
 There is Also an [RSS feed](https://alirostami.net/feed.xml) available.
 

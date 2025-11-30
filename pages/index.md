@@ -17,8 +17,6 @@ Some links to explore:
 - The books I review
 - The snippets I share
 
-I haven't yet added some of the things I mentioned to the website, but I am
-
-hoping to add them all very soon.
+I haven't yet added some of the things I mentioned to the website, but I am hoping to add them all very soon.
 
 last updated: November 28, 2025
