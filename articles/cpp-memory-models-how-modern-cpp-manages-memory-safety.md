@@ -5,9 +5,9 @@ tags:
   - cpp
   - memory-management
 ctime: 2025-11-29T13:30:53Z
-mtime: 2025-11-29T15:28:12Z
+mtime: 2025-11-30T18:52:55Z
 description: Explore how modern C++ ensures memory safety with smart techniques like RAII and smart pointers
-pubDate: Nov 24 2024
+published: Nov 24 2024
 ---
 
 C++ is a one of my favorite languages. It gives full control over memory and performance. But with this great power comes great responsibility. Issues like memory leaks, dangling pointers, and race conditions is what caused the concerns over these vulnerabilities to rise up to the point that recently led [the US government to discourage the use of C++](https://www.cisa.gov/resources-tools/resources/product-security-bad-practices) in favor of memory-safe alternatives.

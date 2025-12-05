@@ -2,9 +2,9 @@
 title: Pointers are a Double-Edged Sword
 tags: []
 ctime: 2025-11-29T13:30:53Z
-mtime: 2025-11-29T15:25:40Z
+mtime: 2025-11-30T18:52:29Z
 description: "Pointers are handy. They allow us to pass heavy objects around with little computational overhead. However, this assumption sometimes leads developers to design their program's data flow based on pointer types. But this is where things could go wrong."
-pubDate: May 17 2024
+published: May 17 2024
 ---
 
 Pointers are handy. They allow us to pass heavy objects around with little computational overhead. However, this assumption sometimes leads developers to design their program's data flow based on pointer types. But this is where things could go wrong.
