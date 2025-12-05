@@ -1,9 +1,9 @@
 ---
-title: 'Handwriting Recognition'
+title: Handwriting Recognition
 ctime: 2025-11-29T13:31:52Z
 mtime: 2025-11-29T13:32:03Z
-description:
-    'A modern C++ project for handwriting recognition using the MNIST dataset'
+description: A modern C++ project for handwriting recognition using the MNIST dataset
+source: https://github.com/alirostami1/handwriting-recognition
 ---
 
 Welcome to the Handwriting Recognition project, an educational initiative to explore neural networks using the MNIST dataset in modern C++. This project demonstrates memory-safe programming practices and leverages state-of-the-art C++ features. For an in-depth look at the underlying memory models and safety mechanisms, check out my [blog post on C++ memory models](https://alirostami.net/blog/cpp-memory-models-how-modern-cpp-manages-memory-safety/). The code for this project can be found on [Github](https://github.com/alirostami1/handwriting-recognition).
